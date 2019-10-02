@@ -1,8 +1,9 @@
 # Hackathon
-0x00
+Team 0x00
 
-some of the code is clean, some of the code is nasty and dirty.
-such is life of the hackathon.
+Some of the code is clean, some of the code is nasty and dirty.
+
+Such is life of the hackathon.
 
 Team Members:
 
